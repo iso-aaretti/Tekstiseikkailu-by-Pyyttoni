@@ -1,0 +1,31 @@
+Aarteenetsintä.py rivi 428, komentojen ja return outputin välissä:
+
+
+        elif command == "take":
+            if object1 is not None:
+                result = take_object(active_scene, inventory, object1)
+                active_scene = result[0]
+                inventory = result[1]
+                output = result[2]
+            else:
+                output = "take what?"
+        elif command == "activate":
+            if object1 is not None:
+                result = activate_object(active_scene, inventory, object1, player)
+                active_scene = result[0]
+                inventory = result[1]
+                player = result[2]
+                output = result[3]
+            else:
+                output = "activate what?"
+        elif command == "combine":
+            if object1 is not None and object2 is not None:
+                result = combine_objects(active_scene, inventory, object1, object2)
+                active_scene = result[0]
+                inventory = result[1]
+                output = result[2]
+            else:
+                output = "Combination - utter failure"
+
+
+--------------------------------------------------------------------------------
