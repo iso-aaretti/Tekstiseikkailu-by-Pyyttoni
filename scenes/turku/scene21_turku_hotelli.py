@@ -33,9 +33,9 @@ class SceneTurkuHotelli(Scene):
     def get_description(self, player):
         description = ("Nukut maukkaat yöunet ja heräät hotellin puhtaista lakanoista. "
                        "Vatsasi kurnii ja päätät mennä hotellin ravintolaan syömään "
-                       "aamupalan."
+                       "aamupalan. "
                        "Vatsa täynnä pohdit mihin lähtisit aarretta etsimään. Turun "
-                       "linnaan vai Kakolanmäen vanhaan vankilaa."
+                       "linnaan vai Kakolanmäen vanhaan vankilaa?"
                        "<br><br><br><br><br><br><br><br>"
                        "        A) <b>Turun linna</b>                           B) <b>Vankila</b>"
                        )

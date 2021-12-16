@@ -28,7 +28,7 @@ class SceneTurkuVankilaPihamaa(Scene):
 
 
     def get_description(self, player):
-        description = ("Kävelet pitkin rakennuksen pihaa.<br> "
+        description = ("Kävelet pitkin rakennuksen pihaa.<br>"
                        "Pian katseesi osuu kiveen, johon on piirretty nuoli. Nuoli osoittaa "
                        "maahan kiven vieressä."
                        "<br><br>"
@@ -36,6 +36,6 @@ class SceneTurkuVankilaPihamaa(Scene):
                        "osoittamasta paikasta. Toisaalta nuoli voi tarkoittaa mitä vain, pitäisikö etsiä "
                        "vielä muualta. Vai pitäisikö pyrkiä rakennukseen sisään?"
                        "<br><br><br><br><br>"
-                       "        A) <b>Lapio</b>                                 B) <b>Muualta</b>                               C) <b>Rakennus</b>"
+                       "        A) <b>Lapio</b>                                  B) <b>Muualta</b>                              C) <b>Rakennus</b>"
                        )
         return description

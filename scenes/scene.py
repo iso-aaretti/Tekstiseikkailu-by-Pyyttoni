@@ -27,11 +27,6 @@ class Scene:
         self.id = ""
         self.objects = []
 
-        self.exit_north = None
-        self.exit_south = None
-        self.exit_east = None
-        self.exit_west = None
-
         self.text_colour = pygame.Color("#141414")
         self.player_text_colour = pygame.Color("#B41414")
         self.background_colour = pygame.Color("#F0F0F0")

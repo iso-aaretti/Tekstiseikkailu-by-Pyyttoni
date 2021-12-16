@@ -38,5 +38,5 @@ class SceneTurkuYoelama(Scene):
                        "<br><br>"
                        "Baarimikko tervehtii ja kysyy 'Mitä saisi olla?'"
                        "<br><br><br><br><br><br>"
-                       "        A) <b>Kalja</b>                                 B) <b>Shotti</b>                                C) <b>Limu</b> ")
+                       "        A) <b>Kalja</b>                                   B) <b>Shotti</b>                              C) <b>Limu</b> ")
         return description

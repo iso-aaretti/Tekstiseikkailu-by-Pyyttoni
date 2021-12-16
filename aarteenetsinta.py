@@ -187,8 +187,6 @@ def process_command(command, object1, object2):
             active_scene.is_first_visit = False
 
     elif have_started:
-
-        # Tampere Hotelli
         if command == "a":
             result = try_scene_change(active_scene, scenes, command, player)
             active_scene = result[0]

@@ -4,19 +4,19 @@ def get_scene_from_id(idf, scenes):
             return scene
 
 
-def try_scene_change(active_scene, scenes, direction, player):
+def try_scene_change(active_scene, scenes, command, player):
     changed_scene = False
-    if direction == "a":
+    if command == "a":
         if active_scene.exit_a is not None:
             active_scene.set_leave_scene()
             active_scene = get_scene_from_id(active_scene.exit_a, scenes)
             changed_scene = True
-    elif direction == "b":
+    elif command == "b":
         if active_scene.exit_b is not None:
             active_scene.set_leave_scene()
             active_scene = get_scene_from_id(active_scene.exit_b, scenes)
             changed_scene = True
-    elif direction == "c":
+    elif command == "c":
         if active_scene.exit_c is not None:
             active_scene.set_leave_scene()
             active_scene = get_scene_from_id(active_scene.exit_c, scenes)

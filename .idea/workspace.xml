@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612955bf-b2da-40b7-8ef7-a3431e39e28e" name="Changes" comment="" />
+    <list default="true" id="612955bf-b2da-40b7-8ef7-a3431e39e28e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aarteenetsinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/aarteenetsinta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/turku/scene21_turku_hotelli.py" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/turku/scene21_turku_hotelli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/turku/scene22_turku_yoelama.py" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/turku/scene22_turku_yoelama.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21gZZsO7BdOSTvUv9KO9hylyc6g" />
   <component name="ProjectViewState">
@@ -16,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aarteenetsinta.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -31,7 +41,7 @@
       <recent name="C:\Users\aaret\OneDrive\Työpöytä\christmas_adventure-master" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.aarteenetsinta">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="aarteenetsinta-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,19 +98,19 @@
       <method v="2" />
     </configuration>
     <configuration name="aarteenetsinta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="aarteenetsinta-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\aaret\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aaret\OneDrive\Työpöytä\christmas_adventure-master\aarteenetsinta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aarteenetsinta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,8 +256,13 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.aarteenetsinta" />
+      <item itemvalue="Python.aarteenetsinta.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aarteenetsinta" />
         <item itemvalue="Python.aarteenetsinta.py" />
         <item itemvalue="Python.aarteenetsinta.py" />
         <item itemvalue="Python.aarteenetsinta.py" />
@@ -282,6 +297,7 @@
       <workItem from="1639651213803" duration="1775000" />
       <workItem from="1639653259956" duration="3748000" />
       <workItem from="1639657042748" duration="97000" />
+      <workItem from="1639657976785" duration="1119000" />
     </task>
     <servers />
   </component>
@@ -291,7 +307,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/aarteenetsinta_master$aarteenetsinta__1_.coverage" NAME="aarteenetsinta (1) Coverage Results" MODIFIED="1638443989828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/christmas_adventure_master$christmas_adventure.coverage" NAME="christmas_adventure Coverage Results" MODIFIED="1638368799412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/aarteenetsinta_master$aarteenetsinta.coverage" NAME="aarteenetsinta Coverage Results" MODIFIED="1639656882918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aarteenetsinta_master$aarteenetsinta.coverage" NAME="aarteenetsinta Coverage Results" MODIFIED="1639658929997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/aarteenetsinta_master$aarteenetsinta_py.coverage" NAME="aarteenetsinta.py Coverage Results" MODIFIED="1639657123932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

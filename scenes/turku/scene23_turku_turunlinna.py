@@ -38,6 +38,6 @@ class SceneTurkuTurunlinna(Scene):
                        "Yritätkö sivuovesta sisään vai lähdetkö sittenkin Kakolanmäen vanhaan "
                        "vankilaan? "
                        "<br><br><br><br>"
-                       "        A) <b>Sivuovi</b>                                       B) <b>Vankila</b>"
+                       "        A) <b>Sivuovi</b>                                    B) <b>Vankila</b>"
                        )
         return description
